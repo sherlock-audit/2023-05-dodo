@@ -1,0 +1,12 @@
+[profile.default]
+src = 'contracts'
+out = 'out'
+libs = ['lib','node_modules']
+solc-version = "0.8.15"
+gas_reports = ["MarginTradingFactory", "MarginTrading"]
+test = 'test'
+cache_path  = 'cache-foundry'
+[fmt]
+multiline_func_header = 'params_first'
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config

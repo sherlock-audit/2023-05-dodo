@@ -1,0 +1,3 @@
+[submodule "dodo-margin-trading-contracts/lib/forge-std"]
+	path = dodo-margin-trading-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
