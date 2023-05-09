@@ -13,3 +13,7 @@
 - [Docs]()
 - [DODOMarginTrading Contracts ](https://github.com/DODOEX/dodo-margin-trading-contracts/tree/main/contracts/marginTrading)
 - [Smart Contract Overview]()
+
+# Setup instructions:
+- `yarn`
+- `forge test`
