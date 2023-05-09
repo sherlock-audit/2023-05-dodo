@@ -70,4 +70,12 @@ ___
 # Audit scope
 
 
+[dodo-margin-trading-contracts @ f6279954cdfb48824c5186cbb86a200db2cddff5](https://github.com/DODOEX/dodo-margin-trading-contracts/tree/f6279954cdfb48824c5186cbb86a200db2cddff5)
+- [dodo-margin-trading-contracts/contracts/marginTrading/MarginTradingFactory.sol](dodo-margin-trading-contracts/contracts/marginTrading/MarginTradingFactory.sol)
+- [dodo-margin-trading-contracts/contracts/marginTrading/Types.sol](dodo-margin-trading-contracts/contracts/marginTrading/Types.sol)
+- [dodo-margin-trading-contracts/contracts/marginTrading/MarginTrading.sol](dodo-margin-trading-contracts/contracts/marginTrading/MarginTrading.sol)
+
+
+
+
 
